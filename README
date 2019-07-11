@@ -15,4 +15,4 @@ v2.x+ : a.vim                http://vim.sourceforge.net/scripts/script.php?scrip
 v2.2+ : words_tools.vim http://vim.sourceforge.net/scripts/script.php?script_id=143
 
 
-N.B.: The command (:Ca) and the macro (,Ca) have been abandonned since version 2.3.
+N.B.: The command (:Ca) and the macro (,Ca) have been abandoned since version 2.3.
